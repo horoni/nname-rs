@@ -36,7 +36,7 @@ int		oflag;
 int		bflag;
 int		Oflag;
 int		dflag;
-int		n;
+size_t		n;
 
 void inline noreturn static usage(void)
 {
