@@ -1,7 +1,7 @@
-# nname
-Make your nickname a hexadecimal sequence, or binary, or octal, or decimal.
+# nname-rs
+rewrite of [nname](https://github.com/oldteamhost/nname) in blazingly fast :rocket: :rocket: :rocket: and memory-safe Rust language.
 ```
-gcc nname.c -o nname
+cargo build -r
 ```
 
 ex:
